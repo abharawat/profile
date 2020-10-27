@@ -58,14 +58,11 @@ footer {
 }
 
 @media(max-width:768px) {
-    #banner_content {
-        padding-bottom: 15%;
-    }
     .navbar-collapse {
-    background:white;
+    background:#0a192f;
     border-bottom-style: solid;
     border-bottom-width: 1px;
-    border-bottom-color: grey;
+    border-bottom-color: #0a192f;
   }
     footer{
         text-align:left;
